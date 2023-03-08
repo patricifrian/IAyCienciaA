@@ -6,6 +6,7 @@ COPY IAOS.py .
 
 RUN pip install requests
 RUN pip install wordcloud
+RUN pip install matplotlib
 RUN pip install grobid_client_python
 
 ENTRYPOINT ["python", "IAOS.py"]
