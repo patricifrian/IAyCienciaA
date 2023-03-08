@@ -1,6 +1,6 @@
 # IAyCienciaA#
 
-[![DOI]
+[![DOI] DOI: 10.5281/zenodo.7709763
 
 # Main
 This Python script will read the .pdf files from the folder./open-access-articles and will Create some files on ./results. The input folder must contain papers in pdf
